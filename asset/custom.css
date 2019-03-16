@@ -1,0 +1,57 @@
+body {
+font-family: 'Ubuntu', sans-serif;
+margin-bottom: 60px;
+}
+.navbar.navbar-inverse {
+    margin-top: -20px;
+}
+#myCarousel {
+    margin-top: -20px;
+}
+.cetak {
+    font-family: arial;
+}
+
+#to {
+    font-weight: bolder;
+    margin-bottom: -5px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.pol {
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+.top {
+    background-color: #ffcb01;
+    padding-bottom: 10px;
+padding-top: 10px;
+}
+
+.sis {
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#pn {
+    /*width: 40%;*/
+    text-align: center;
+}
+
+.table > thead > tr > th {
+     vertical-align: middle;
+     text-align: center;
+}
+
+.table > tbody > tr > td {
+     vertical-align: middle;
+     text-align: center;
+}
+
+.table > tbody > tr > td.psb {
+    vertical-align: middle;
+    text-align: left;
+}
